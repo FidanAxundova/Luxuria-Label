@@ -1,0 +1,31 @@
+{
+    "sumka": [
+        {
+            "id":1,
+            "productImage":"https://cdn-images.farfetch-contents.com/13/53/30/85/13533085_21964977_600.jpg",
+            "newPrice":"2899.99",
+            "oldPrice":"3499.99",
+            "productName": "Sicily",
+            "size" : "small, middle, big"
+            
+        },
+       {
+        "id":2,
+        "productImage":"https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dwa47508bc/images/zoom/BB6003AW050_HG3OB_0.jpg",
+        "newPrice":"2999.99",
+        "oldPrice":"3399.99",
+        "productName": "Devotion Leather",
+        "size" : "small, middle, big"
+   
+       },
+       {
+        "id":3,
+        "productImage":"https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dwaa6b3b63/images/zoom/BB7599AW576_80999_0.jpg",
+        "newPrice":"1999.99",
+        "oldPrice":"2499.99",
+        "productName": "Leather Shoulder Bag",
+        "size" : "small, middle, big"
+   
+       }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "parfume": [
+        {
+            "id":4,
+            "productImage":"https://atudutyfree.com/asset/product/5/4559/mgq13.jpg",
+            "newPrice":"129.99",
+            "oldPrice":"159.99",
+            "productName": "TERRE D'HERMES",
+            "size" : "30ml, 50ml, 100ml"
+            
+        },
+       {
+        "id":5,
+        "productImage":"https://www.parfumshop.az/image/cache/data/Hermes/lombre-des-merveilles-1623779232-500x500.jpg",
+        "newPrice":"139.99",
+        "oldPrice":"169.99",
+        "productName": "L'OMBRE DES MERVEILLES",
+        "size" : "30ml, 50ml, 100ml"
+   
+       },
+       {
+        "id":6,
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKvkEY_dTouRz4La2PPQlMj3jN5RkA2wOog&s",
+        "newPrice":"89.99",
+        "oldPrice":"119.99",
+        "productName": "TWILLY",
+        "size" : "30ml, 50ml, 100ml"
+   
+       }
+    ]
+}

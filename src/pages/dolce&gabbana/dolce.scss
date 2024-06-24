@@ -1,0 +1,70 @@
+.dolce-gabbana{
+    .dolcegabbana-in{
+        width: 100%;
+        video{
+            width: 100%;
+            height: 100%;
+        }
+        .product-qutu{
+            border-radius: 10px;
+            box-shadow: 0 0 1rem #565050;
+            width: 400px;
+          
+
+            width: 400px;
+            .product-qutu-in{
+                padding: 20px 15px;
+            }
+            .top-hisse{
+                
+                img{
+                    width: 100%;
+                    height: 400px;
+                    object-fit: contain;
+                }
+                 
+
+
+            }
+            .bottom-hisse{
+               
+                h5{
+                    font-size: 20px;
+                    margin-top: 20px;
+                }
+                .qiymetler{
+                    display: flex;
+                    gap: 10px;
+                    align-items: center;
+                    margin-top: 20px;
+
+                    .new-price{
+                        font-size:18px;
+                        font-weight: 500;
+                    }
+                    .old-price{
+                        font-size: 14px;
+                        text-decoration: line-through;
+                        color: #beb9b9;
+                    }
+                }
+                .sizes{
+                    margin-top: 15px;
+                    cursor: pointer;
+                    text-transform: uppercase;
+                }
+                    
+                
+
+            }
+        }
+        .sumkalar{
+            display: flex;
+            justify-content: space-between;
+            max-width: 1400px;
+            width: 100%;
+            margin: 60px auto;
+
+        }
+    }
+}

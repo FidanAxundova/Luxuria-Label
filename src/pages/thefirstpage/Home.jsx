@@ -53,25 +53,7 @@ const Home = () => {
 
           
 
-        <div className="box">
-        <img src={prada1} />
-        </div>
-        <div className="box">
-        <img src={guccibag} />
-        </div>
-        <div className="box">
-        <img src={dgbag} />
-        </div>
-        <div className="box">
-        <img src={jwdg} />
-        </div>
-        <div className="box">
-        <img src={hermesjw} />
-        </div>
-        <div className="box">
-        <img src={dgjw} />
-        </div>
-        
+       
 
         </div>
         

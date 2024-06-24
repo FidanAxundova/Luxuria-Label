@@ -13,12 +13,12 @@ const Header = () => {
       <nav>
         <div className="top">
             <div className="top-left">
-                <p>DOLCE&GABBANA</p>
-                <p>HERMES</p>
-                <p>GUCCI</p>
-                <p>PRADA</p>
-                <p>LACOSTE</p>
-                <p>VERSACE</p>
+                <Link to={"/dolce&gabbana"}>DOLCE&GABBANA</Link>
+                <Link to={"/hermes"}>HERMES</Link>
+                <Link>GUCCI</Link>
+                <Link>PRADA</Link>
+                <Link>LACOSTE</Link>
+                <Link>VERSACE</Link>
                 
                
 

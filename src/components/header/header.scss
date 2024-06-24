@@ -3,6 +3,7 @@ position: fixed;
 top: 0;
 width: 100%;
 transition: all .5s ease-in-out;
+z-index: 999;
 
     nav{
       
@@ -17,6 +18,10 @@ transition: all .5s ease-in-out;
             display: flex;
             align-items: center;
             gap: 20px;
+            a{
+                text-decoration: none;
+                color:#FFF;
+            }
 
         }
         .top-right{
@@ -37,6 +42,8 @@ transition: all .5s ease-in-out;
             letter-spacing: 20px;
             color: #FFF;
             text-shadow: 0 0 1rem #000;
+            margin-top: 30px;
+            user-select: none;
         }
        }
     }
@@ -48,6 +55,11 @@ header:hover{
     nav{
         .top{
             color: #000;
+            .top-left{
+                a{
+                    color:#000 ;
+                }
+            }
         }
         .middle h1{
             color: #000;
