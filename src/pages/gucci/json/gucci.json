@@ -1,0 +1,33 @@
+{
+
+"glasses": [
+        {
+            "id":7,
+            "productImage":"https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1691080311/760774_FACMZ_9746_001_100_0000_Light.jpg",
+            "newPrice":"699.99",
+            "oldPrice":"899.99",
+            "productName": "WOMEN'S GUCCI ACE TRAINER WITH WEB",
+            "size" : "36, 37, 38, 39, 40, 41"
+            
+        },
+       {
+        "id":8,
+        "productImage":"https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1586419203/429446_02JP0_1284_002_100_0000_Light-Mens-Ace-embroidered-sneaker.jpg",
+        "newPrice":"799.99",
+        "oldPrice":"899.99",
+        "productName": "MEN'S ACE EMBROIDERED SNEAKER",
+        "size" : "36, 37, 38, 39, 40, 41"
+   
+       },
+       {
+        "id":9,
+        "productImage":"https://media.neimanmarcus.com/f_auto,q_auto:low,ar_4:5,c_fill,dpr_2.0,w_456/01/nm_4842635_100209_m",
+        "newPrice":"1299.99",
+        "oldPrice":"1399.99",
+        "productName": "Low-Top Sneakers",
+        "size" : "36, 37, 38, 39, 40, 41"
+   
+       }
+    ]
+
+} 

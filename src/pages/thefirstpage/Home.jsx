@@ -46,19 +46,6 @@ const Home = () => {
 
 
 
-<div className="uchisse">
-        <h2>It's Time to Glaaam</h2>
-        <div className="uchisse-in">
-          
-
-          
-
-       
-
-        </div>
-        
-
-      </div>
 
       <div className="women">
         <h5>WOMEN'S COLLECTION</h5>

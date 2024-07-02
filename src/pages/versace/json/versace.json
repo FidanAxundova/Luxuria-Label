@@ -1,0 +1,31 @@
+{
+    "smt": [
+        {
+            "id":13,
+            "productImage":"https://www.versace.com/on/demandware.static/-/Sites-ver-master-catalog/en_AE/v1718957049627/original/90_1016119-1A11271_1X050_10_MetalMeshCowlSlipMiniDress-Dresses-Versace-online-store_0_2.jpg",
+            "newPrice":"699.99",
+            "oldPrice":"899.99",
+            "productName": "METAL MESH SLIP MINI DRESS",
+            "size" : "XS, S, M, L, XL, XXL, "
+            
+        },
+       {
+        "id":14,
+        "productImage":"https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwf8241869/original/90_1013211-1A10193_5B000_10_BaroccoSilkShirtMiniDress-Clothing-Versace-online-store_3_2.jpg?sw=850&q=85&strip=true",
+        "newPrice":"1399.99",
+        "oldPrice":"1599.99",
+        "productName": "Borocco Silk Shirt Mini",
+        "size" :"XS, S, M, L, XL, XXL, "
+   
+       },
+       {
+        "id":15,
+        "productImage":"https://www.luisaworld.com/wp-content/uploads/2024/06/Versace_8324502051_45435-600x600.jpg",
+        "newPrice":"1899.99",
+        "oldPrice":"1999.99",
+        "productName": "Tuxedo Hourglass Blazer",
+        "size" : "16, 17, 18, 19, 20, 21 "
+   
+       }
+    ]
+}

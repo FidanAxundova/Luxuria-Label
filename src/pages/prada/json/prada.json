@@ -1,0 +1,31 @@
+{
+    "jew": [
+        {
+            "id":10,
+            "productImage":"https://cdn.saksfifthavenue.com/is/image/saks/0400020353614_BLACKWHITE?wid=600&hei=800&qlt=90&resMode=sharp2&op_usm=0.9%2C1.0%2C8%2C0",
+            "newPrice":"499.99",
+            "oldPrice":"699.99",
+            "productName": "Enameled Metal Ring",
+            "size" : "16, 17, 18, 19, 20, 21 "
+            
+        },
+       {
+        "id":11,
+        "productImage":"https://www.prada.com/content/dam/pradabkg_products/1/1JB/1JB405/2FKNF0056/1JB405_2FKN_F0056_SLF.jpg",
+        "newPrice":"1399.99",
+        "oldPrice":"1699.99",
+        "productName": "Eternal Gold chain bracelet in yellow gold",
+        "size" :"16, 17, 18, 19, 20, 21 "
+   
+       },
+       {
+        "id":12,
+        "productImage":"https://pyxis.nymag.com/v1/imgs/61c/26a/aa11e1bd8e0a971bfad5a84e08eeac712c-PRA-FJ-HEART-CHOKER-WITH-CHAIN-OPT1-300-.1x.rsquare.w1400.jpg",
+        "newPrice":"1899.99",
+        "oldPrice":"1999.99",
+        "productName": "Eternal Gold",
+        "size" : "16, 17, 18, 19, 20, 21 "
+   
+       }
+    ]
+}

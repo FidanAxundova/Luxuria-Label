@@ -6,11 +6,11 @@ import { SlBasket } from "react-icons/sl";
 
 const Herme = () => {
   return (
-    <section className="hermes">
+   
+ <section className="hermes">
       <div className="hermes-in">
         <video src={hermesVideo} autoPlay loop muted></video>
       </div>
-
       <div className="parfume">
         {hermesJson.parfume.map((product, id) => (
           <div className="product-qutu">

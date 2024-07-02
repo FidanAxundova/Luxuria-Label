@@ -13,6 +13,9 @@ const Dolcegabbana = () => {
   return (
 
     <section className='dolce-gabbana'>
+
+
+
       
         <div className="dolcegabbana-in">
             <video src={dolceVideo} autoPlay loop muted></video>
@@ -51,6 +54,15 @@ const Dolcegabbana = () => {
 
          </div>
 
+          <div className="ikinci">
+
+      
+    </div>
+
+
+
+
+
         </div>
 
 
@@ -61,6 +73,7 @@ const Dolcegabbana = () => {
 
     </section>
 
+   
 
 
     
